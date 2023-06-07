@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\bin\Debug\Bai2_CongTyDuThuyenHoTay.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\bin\Debug\Bai2_CongTyDuThuyenHoTay.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\bin\Debug\Bai2_CongTyDuThuyenHoTay.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\obj\Debug\Bai2_CongTyDuThuyenHoTay.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\obj\Debug\Bai2_CongTyDuThuyenHoTay.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\obj\Debug\Bai2_CongTyDuThuyenHoTay.FormMain.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\obj\Debug\Bai2_CongTyDuThuyenHoTay.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\obj\Debug\Bai2_CongTyDuThuyenHoTay.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\obj\Debug\Bai2_CongTyDuThuyenHoTay.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\obj\Debug\Bai2_CongTyDuThuyenHoTay.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi2\Bai2_CongTyDuThuyenHoTay\Bai2_CongTyDuThuyenHoTay\obj\Debug\Bai2_CongTyDuThuyenHoTay.pdb
